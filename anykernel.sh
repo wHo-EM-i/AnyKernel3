@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Beast-lavender-oldcam
+kernel.string=Beast-kernel-lavender
 do.devicecheck=1
 do.modules=0
 do.systemless=1
